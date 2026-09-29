@@ -1,4 +1,4 @@
-# 🎌 Anime Analysis Dashboard
+# 🎌 Anime-data-Analysis Dashboard
 
 An interactive **Anime Analysis Dashboard** designed to explore and analyze anime data using different categories such as type, genre, ratings, members, episodes, and popularity.
 
